@@ -1,4 +1,4 @@
-# Pattern-Memory-Game
+# Brain-Decoder
 ![alt_text](https://github.com/s26bell/Pattern-Memory-Game/blob/main/Circuit.jpg)
 
 # How it works
